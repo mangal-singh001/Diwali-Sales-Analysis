@@ -36,3 +36,15 @@ A data-driven exploration of Diwali sales trends to uncover consumer behaviors, 
    ```bash
    git clone https://github.com/mangal-singh001/Diwali-Sales-Analysis.git
    cd Diwali-Sales-Analysis
+
+
+
+🔗 Connect with Me
+
+
+GitHub: mangal-singh001
+
+LinkedIn: [https://www.linkedin.com/in/mangal-singh123/]
+
+
+✍️ Feel free to fork this repo or suggest improvements!
